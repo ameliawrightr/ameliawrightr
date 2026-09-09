@@ -1,7 +1,7 @@
 ## AMELIA
-💡 Tax Data Engineer @ PwC | 🎓 Data Analytics UG at Queen Mary University of London 
+💡 Tax Data Analyst @ PwC | 🎓 Data Analytics UG at Queen Mary University of London 
 
-🧘‍♀️ Interested in public health, innovation, and transformation
+🧘‍♀️ Interested in public health, computational biology, and transformation
 
 
 ### 📫 Connect
